@@ -4,6 +4,12 @@ img {
     display: block;
 }
 
+a {
+    text-decoration: none;
+    padding: 50% 0% 5% 5%;
+    color: aliceblue;
+    position: fixed;
+}
 body {
     margin: 0;
 }
